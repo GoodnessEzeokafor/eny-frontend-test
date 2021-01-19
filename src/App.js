@@ -30,7 +30,7 @@ export default class App extends Component {
                   <div className="card">
             <img 
             width="100"
-            src="https://www.flaticon.com/svg/vstatic/svg/149/149071.svg?token=exp=1611052606~hmac=2ce38e66234955cdccdb6321da0abf4e" className="card-img-top" alt="..." />
+            src="149071.svg" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">
                     {profile.FirstName} {profile.LastName}
